@@ -8,3 +8,5 @@ export function Button(props: ButtonProps) {
     <button>CLique me &gt; {text || 'Default'}</button>
   )
 }
+
+// Add little comment!
